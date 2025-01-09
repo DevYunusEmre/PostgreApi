@@ -108,7 +108,10 @@ Bu proje aşağıdaki teknolojilerle geliştirilmiştir:
 Bu proje **MIT Lisansı** altında lisanslanmıştır. Detaylar için `LICENSE` dosyasına bakabilirsiniz.
 
 ## Postman Example
-
+[GET] GetAllUsers
+![Örnek Görsel](Images/GetAllUser.jpg)
 ![Örnek Görsel](Images/AddUser.jpg)
+![Örnek Görsel](Images/GetUserById.jpg)
+![Örnek Görsel](Images/DeleteUserById.jpg)
 
 
