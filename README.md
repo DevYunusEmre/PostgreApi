@@ -109,6 +109,6 @@ Bu proje **MIT Lisansı** altında lisanslanmıştır. Detaylar için `LICENSE` 
 
 ## Postman Example
 
-![Örnek Görsel](images/AddUser.jpg)
+![Örnek Görsel](Images/AddUser.jpg)
 
 
