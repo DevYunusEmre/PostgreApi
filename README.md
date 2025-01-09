@@ -109,12 +109,16 @@ Bu proje **MIT Lisansı** altında lisanslanmıştır. Detaylar için `LICENSE` 
 
 ## Postman Example
 - **[GET] GetAllUsers
+- 
 ![Örnek Görsel](Images/GetAllUser.jpg)
--**[POST] AddUser
+- **[POST] AddUser
+- 
 ![Örnek Görsel](Images/AddUser.jpg)
-[GET] GetUserById
+- **[GET] GetUserById
+- 
 ![Örnek Görsel](Images/GetUserById.jpg)
-[DELETE] DeleteUserById
+- **[DELETE] DeleteUserById
+- 
 ![Örnek Görsel](Images/DeleteUserById.jpg)
 
 
