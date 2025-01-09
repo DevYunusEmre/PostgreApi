@@ -106,3 +106,7 @@ Bu proje aşağıdaki teknolojilerle geliştirilmiştir:
 ## Lisans
 
 Bu proje **MIT Lisansı** altında lisanslanmıştır. Detaylar için `LICENSE` dosyasına bakabilirsiniz.
+
+## Postman Example
+
+
