@@ -10,9 +10,9 @@ Bu proje, JSON verilerini anahtar-değer çiftleriyle saklamak için **PostgreSQ
 
 ## Gereksinimler
 
-- **.NET 8 SDK**
-- **Docker** ve **Docker Compose**
-- **PostgreSQL** (Docker Compose üzerinden çalıştırılacak)
+- **Docker** ve **Docker Compose**: Bu proje, tüm bağımlılıklarıyla birlikte Docker konteynerlarında çalışır. 
+  - [Docker'ı Yükleyin](https://docs.docker.com/get-docker/)
+  - [Docker Compose'u Yükleyin](https://docs.docker.com/compose/install/)
 
 ## Projeyi Çalıştırma
 
