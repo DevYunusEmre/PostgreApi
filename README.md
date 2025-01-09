@@ -117,7 +117,7 @@ Bu proje **MIT Lisansı** altında lisanslanmıştır. Detaylar için `LICENSE` 
 - **[GET] GetUserById
   
 ![Örnek Görsel](Images/GetUserById.jpg)
-- **[DELETE] DeleteUserById
+- [DELETE] DeleteUserById
   
 ![Örnek Görsel](Images/DeleteUserById.jpg)
 
